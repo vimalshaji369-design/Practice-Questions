@@ -12,4 +12,4 @@ function discount(amount){
     }
 }
 discount(300)
-discount(4000)
+discount(400)
