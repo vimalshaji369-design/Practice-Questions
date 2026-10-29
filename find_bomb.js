@@ -5,7 +5,7 @@
 // ● bomb("Hey, did you think there is a bomb?") ➞ "Duck!!!" 
 // ● bomb("This goes boom!!!") ➞ "There is no bomb, relax." 
 
-
+function bomb(check){
 
 for(i=0;i<check.length;i++){
     if(check.includes("bomb")){
