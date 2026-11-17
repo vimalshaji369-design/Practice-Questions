@@ -19,7 +19,7 @@ let obj = Object.values(str);
   return sum;
 }
 
-console.log(totalStringLength({ name: "John", city: "Paris" }) );
+console.log(totalStringLength({ name: "John", city: "Paris" }) ); 
 
 console.log(totalStringLength({ a: "hi", b: "world" }));
 
