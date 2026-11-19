@@ -9,9 +9,9 @@
 
 function arrayOfMultiples(num, length){
 let sum=0;
-  let total=[]
+let total=[]
   for(let i=1;i<=length;i++){
-       sum=num*i;
+       sum = num*i;
     total.push(sum);
   }
     return total;
